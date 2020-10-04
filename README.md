@@ -1,11 +1,11 @@
-## [Anydl Robot](https://telegram.dog/Anydl)
+## [South Indian Hindi Movies Dubbed HD](https://telegram.dog/southindian_movies_hindi_dubbed)
 ---
 
 An Open Source Telegram RoBot  😍
 
 ### Special thanks
 
-* [@Spechide](https://telegram.dog/spechide)
+* [@ContactCGBot](https://telegram.dog/ContactCGBot)
 
 ### Installation
 
@@ -15,9 +15,8 @@ An Open Source Telegram RoBot  😍
 
 ## Our Telegram Channel and Group
 
-* [Dx Bots Updates](https://telegram.dog/Dx_Botz)
+* [Desi Memes Hindi Jokes Indian 18+](https://telegram.dog/Desi_Memes_Hindi_Jokes_Indian)
 
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
 
 
 ### [@BotFather](https://telegram.dog/BotFather) Commands
